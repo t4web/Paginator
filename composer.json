@@ -13,7 +13,7 @@
     "zendframework/zend-modulemanager": "^2.5",
     "zendframework/zend-servicemanager": "^2.5",
     "zendframework/zend-paginator": "^2.5",
-    "t4web/domain-interface": "^1.1",
+    "t4web/domain-interface": "~1.1.0",
     "sebaks/view": "dev-master"
   },
   "autoload": {
